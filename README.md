@@ -1,10 +1,6 @@
 # c-array-matrix-exercises
 
-## run it with GCC
+<sub> run it with **GCC** </sub>
 
-``
-
-- gcc exercises.c -o exercises
-- ./exercices
-
-``
+> gcc exercises.c -o exercises
+> ./exercices
